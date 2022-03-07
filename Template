@@ -1,0 +1,4 @@
+triggerTemplate:
+  branchName: ^BRANCH_NAME$
+  projectId: PROJECT_ID_OF_THE_SOURCE_REPO_BRANCH
+  repoName: SOURCE_REPO_NAME
